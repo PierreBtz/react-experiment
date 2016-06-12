@@ -1,6 +1,6 @@
 'use strict';
 
-var ReactDOM = require('react-dom');
-var routes = require('./config/routes.js');
+const ReactDOM = require('react-dom');
+const routes = require('./config/routes.js');
 
 ReactDOM.render(routes, document.getElementById('app'));

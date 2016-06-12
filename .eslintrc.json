@@ -26,6 +26,7 @@
     }],
     "jsx-quotes": ["error", "prefer-single"],
     "max-len": ["warn", 100],
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "no-var": "error"
   }
 }

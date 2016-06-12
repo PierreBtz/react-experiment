@@ -1,6 +1,8 @@
-var React = require('react');
+'use strict';
 
-var Home = React.createClass({
+const React = require('react');
+
+const Home = React.createClass({
   render: function() {
     return <div > Hello from home! < /div>;
   }

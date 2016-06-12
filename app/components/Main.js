@@ -1,6 +1,8 @@
-var React = require('react');
+'use strict';
 
-var Main = React.createClass({
+const React = require('react');
+
+const Main = React.createClass({
   propTypes: {
     children: React.PropTypes.object
   },
